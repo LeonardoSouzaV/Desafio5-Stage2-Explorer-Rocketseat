@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 Recreating Layout (2) was developed to study and apply the html and css content presented in Level 2 of Rocketseat's Explorer. Among the most common themes are:
 
 
---Structuring an HTML project;
+- Structuring an HTML project;
 - Use of the most common HTML tags;
 - Initial concepts of CSS;
 - Positioning and alignment of elements on the screen;
